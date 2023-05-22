@@ -1,0 +1,6 @@
+hitory/
+venv/
+note_modules/
+
+.ipynb_checkpoints/
+__pycache__/
